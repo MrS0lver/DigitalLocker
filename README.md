@@ -26,7 +26,7 @@ Ever had to lend your laptop to a friend or classmate and felt uneasy about your
 
 - Language: **Java**
 - GUI: **Swing**
-- Build Output: `.jar` (Java executable), optionally `.exe` for Windows
+- Build Output: `.jar` (Java executable), `.exe` (Windows executable)
 - Compatibility: Windows, Linux, macOS (Java required)
 
 ---
@@ -36,7 +36,7 @@ Ever had to lend your laptop to a friend or classmate and felt uneasy about your
 ### 🔧 Requirements
 - Java JDK 8 or higher
 - OS: Windows / Linux / macOS
-- (Optional) Launch4j for Windows `.exe` build
+- (Optional) Launch4j for `.exe` build
 
 ---
 
