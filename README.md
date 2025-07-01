@@ -44,9 +44,3 @@ No need to build or compile anything — just **download and double-click** to l
 - ![Screenshot 2025-07-02 031244](https://github.com/user-attachments/assets/b21b4144-8e40-4848-920a-3a92408fb614)
 
 
----
-
-### ▶️ Run from Terminal
-
-```bash
-java -jar DigitalLockerApp.jar
