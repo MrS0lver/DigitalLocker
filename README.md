@@ -27,9 +27,16 @@ Ever had to lend your laptop to a friend or classmate and felt uneasy about your
 - Language: **Java**
 - GUI: **Swing**
 - Build Output: `.jar` (Java executable), `.exe` (Windows executable)
-- Compatibility: Windows, Linux, macOS (Java required)
+- Compatibility: Windows
 
 ---
+
+### 🪟 Download & Run the Executable (Windows)
+
+You can directly download the ready-to-use `.exe` file from the **same repository**.
+
+👉 Navigate to the [`executable/`](./executable) folder in this repo — the Windows executable is stored there.  
+No need to build or compile anything — just **download and double-click** to launch the app.
 
 ## 📦 How to Run
 
