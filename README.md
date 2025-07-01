@@ -38,12 +38,11 @@ You can directly download the ready-to-use `.exe` file from the **same repositor
 👉 Navigate to the [`executable/`](./executable) folder in this repo — the Windows executable is stored there.  
 No need to build or compile anything — just **download and double-click** to launch the app.
 
-## 📦 How to Run
+## 📦 ScreenShots
+- ![Screenshot 2025-07-02 031236](https://github.com/user-attachments/assets/6dd154ff-0fb5-4420-b384-0b272f7a4f79)
 
-### 🔧 Requirements
-- Java JDK 8 or higher
-- OS: Windows / Linux / macOS
-- (Optional) Launch4j for `.exe` build
+- ![Screenshot 2025-07-02 031244](https://github.com/user-attachments/assets/b21b4144-8e40-4848-920a-3a92408fb614)
+
 
 ---
 
