@@ -27,7 +27,7 @@ Ever had to lend your laptop to a friend or classmate and felt uneasy about your
 - Language: **Java**
 - GUI: **Swing**
 - Build Output: `.jar` (Java executable), `.exe` (Windows executable)
-- Compatibility: Windows, Linux, macOS (Java required)
+- Compatibility: Windows
 
 ---
 
